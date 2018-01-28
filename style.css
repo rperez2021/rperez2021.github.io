@@ -30,10 +30,18 @@ h2  {
     }
 
 .container  {
-    width: 1024px;
+    width: 85%;
     margin: 0 auto;
+    float: left;
     }
 
+.sidebar   {
+    width: 15%;
+    height: 500px;
+    background-color: darkgray;
+    position: relative;
+    float: left;
+}
 #main-bio   {
     float: left;
     width: 70%;
@@ -49,8 +57,21 @@ h2  {
     width: 200px;
     height: 200px;
     margin-right: 20px;
+    margin-left: 30px;
 }
 
 a   {
-    color: #d21034;
+    color: green;
+}
+
+.rborder {
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    list-style: none;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+#sidemenu {
+    margin-top: 10px;
 }
