@@ -87,12 +87,13 @@ z-index: 100;
     background-color: white;    
     position: relative;
     padding: 10px;
+    margin-right: 40px;
 }
 
 .connect {
     width: 249px;
     height: 250px;
-    float: right;
+    float: left;
     border: .5px solid #dddddd;
     background-color: white;   
     position: relative;
