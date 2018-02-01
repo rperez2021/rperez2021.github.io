@@ -121,10 +121,11 @@ footer {
 
 #bio-image {
     float: left;
+    margin: 0 15px 0 0;
 }
 
 #biotext {
-    width: 420px;
+    width: 400px;
     float: right;
     margin: 0 5px 0 10px;
 }
