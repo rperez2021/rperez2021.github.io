@@ -1,0 +1,29 @@
+.firstpar {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 2opx;
+    letter-spacing: 20px;
+    font-family: 'Space Mono', monospace;  
+    font-family: 'Fruktur', cursive;
+    font-family: 'Tillana', cursive;
+    font-family: 'Asul', sans-serif;
+    font-family: 'Alike Angular', serif;
+    font-family: 'Work Sans', sans-serif;
+    font-family: 'Neuton', serif;
+    font-family: 'Eczar', serif;
+}
+
+.secondpar {
+    font-family: 'Kavoon', cursive;
+}
+
+.thirdpar {
+    font-family: 'Concert One', cursive;  
+}
+
+}
+
+i {
+    font-size: 50px;
+    size: 20px;
+}
