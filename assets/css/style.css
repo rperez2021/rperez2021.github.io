@@ -22,6 +22,7 @@ left: 0;
 right: 0;
 z-index: 100;
 
+
 }
 
 .navlinks {
@@ -77,6 +78,7 @@ z-index: 100;
     margin-top: 100px;
     border-bottom-color: #dddddd;
     position: relative;
+
 
 }
 .aboutme {
@@ -146,18 +148,20 @@ footer {
 
 .portfolioitems {
     width: 629px;
+    height: auto;
     float: left;
     border: .5px solid #dddddd;
     background-color: white;    
     padding: 10px;
     margin-right: 40px;
     margin-bottom: 100px;
+    
 }
 
 .portdivrel {
     position: relative;
     width: 250px;
-    height: 200px;
+    height: 230px;
 }
 
 .portfoliotext {
@@ -188,4 +192,10 @@ footer {
     text-align: center;
     margin: 15px;
     padding: 15px 0 10px 0;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
 }
